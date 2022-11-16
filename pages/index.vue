@@ -96,7 +96,7 @@
           </div>
           <div class="my-12 text-center flex flex-col items-center">
             <a href="https://store.steampowered.com/app/1561660/The_Lightbringer/" target="_blank">
-              <nuxt-img src="ts.jpg" alt="game The Lightbringer logo" sizes="250px lg:500px" class="mb-3" />
+              <nuxt-img src="tl.jpg" alt="game The Lightbringer logo" sizes="250px lg:500px" class="mb-3" />
               <p class="textSec">The Lightbringer</p>
             </a>
           </div>
