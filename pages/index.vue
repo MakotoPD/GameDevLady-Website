@@ -90,13 +90,13 @@
         <div class="px-8 lg:flex lg:justify-center lg:space-x-8">
           <div class="my-12 text-center flex flex-col items-center">
             <a href="https://store.steampowered.com/app/842180/Prison_Simulator/" target="_blank">
-              <nuxt-img src="https://cdn.akamai.steamstatic.com/steam/apps/842180/header.jpg?t=1668353867" alt="Game Prison Simulator logo" sizes="250px lg:500px" class="mb-3" />
+              <nuxt-img src="ps.jpg" alt="Game Prison Simulator logo" sizes="250px lg:500px" class="mb-3" />
               <p class="textSec">Prison Simulator</p>
             </a>
           </div>
           <div class="my-12 text-center flex flex-col items-center">
             <a href="https://store.steampowered.com/app/1561660/The_Lightbringer/" target="_blank">
-              <nuxt-img src="https://cdn.akamai.steamstatic.com/steam/apps/1561660/header.jpg?t=1636649571" alt="game The Lightbringer logo" sizes="250px lg:500px" class="mb-3" />
+              <nuxt-img src="ts.jpg" alt="game The Lightbringer logo" sizes="250px lg:500px" class="mb-3" />
               <p class="textSec">The Lightbringer</p>
             </a>
           </div>
