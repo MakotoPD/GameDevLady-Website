@@ -30,6 +30,8 @@ export default {
 
   buildModules: [
     '@nuxtjs/tailwindcss',
+    'nuxt-gsap-module',
+    '@nuxtjs/netlify-files'
   ],
 
   modules: [
