@@ -5,6 +5,7 @@
 			<p class="text-lg font-bold text-red-400">GameDevLady</p>
 		</div>
 		<div class="flex items-center space-x-6">
+			
 			<nav class="hidden md:flex space-x-12 font-bold mr-4">
 				<nuxt-link to="/materialy" class="text-gray-500 ">Materiały</nuxt-link>
 				<nuxt-link to="/o-mnie" class="text-gray-500 ">O mnie</nuxt-link>
@@ -13,6 +14,7 @@
 			<button class="ml-4 p-2 md:hidden">
 				<nuxt-img src="/hamburger.svg" placeholder />
 			</button>
+
 		</div>
 	</header>
 </template>
