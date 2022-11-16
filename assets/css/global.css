@@ -1,0 +1,38 @@
+.textPrim{
+	color: #6B4C5F;
+}
+
+.textSec{
+	color: #7D6F78;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+.bubble::before{
+	content: '';
+	width: 200px;
+	height: 140px;
+	position: absolute;
+	top: -70px;
+	right: 10px;
+	background-image: url('/bubbles.png');
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.bubble::after{
+	content: '';
+	width: 200px;
+	height: 140px;
+	position: absolute;
+	bottom: -70px;
+	left: 10px;
+	background-image: url('/bubbles.png');
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	rotate: 180deg;
+}
