@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Menu/>
     <div class="absolute top-0 left-0 w-screen" style="z-index: -10; background-image: url('/bg.svg'); background-size: cover; background-position: bottom; height: 700px;">
     </div>
     <div class="flex flex-col lg:flex-row mt-16 lg:mt-0 justify-center lg:justify-start">
