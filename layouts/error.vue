@@ -1,6 +1,5 @@
 <template>
 	<div>
-		<Menu/>
 		<div class="py-36 flex justify-center items-center flex-col">
 			<div class="mb-12">
 				<h1 v-if="error.statusCode === 404" class="text-4xl textPrim">Page not found</h1>
